@@ -1,5 +1,5 @@
 # SYRIATEL CUSTOMER CHURN ANALYSIS
-![Alt text](./customer churn.jpeg)  
+![Alt text](./customer churn.jpg)  
 This project was part of the curriculum at a data science bootcamp at moringa school, phase 3 project.
 
 ## OVERVIEW
