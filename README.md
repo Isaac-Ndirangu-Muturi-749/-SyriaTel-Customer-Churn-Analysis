@@ -1,5 +1,5 @@
 # SYRIATEL CUSTOMER CHURN ANALYSIS
-
+![Alt text](./customer churn.jpeg)  
 This project was part of the curriculum at a data science bootcamp at moringa school, phase 3 project.
 
 ## OVERVIEW
@@ -118,6 +118,7 @@ Based on the analysis using the Sequential Forward Selection (SFS) with a Random
 The analysis revealed that the Random Forest model achieved the highest accuracy and F1 score among the evaluated models. It showed a strong ability to predict customer churn, with an accuracy of 96.503% and an F1 score of 0.77477. The top features identified as influential in predicting churn were total day charge, total eve charge, customer service calls, total night charge, total day calls, state, number of voicemail messages, voice mail plan (yes/no), area code 415, and area code 408.
 
 ## RECOMMENDATIONS
+![Alt text](./reduce-customer-churn.jpg)
 Based on the findings, SyriaTel can take the following actions to reduce customer churn and minimize revenue loss:
 
 - Focus on managing and reducing the charges incurred by customers during daytime and evening usage. Analyze the pricing structure and consider offering competitive plans to retain customers.
@@ -157,10 +158,10 @@ The dataset used in this project is provided by SyriaTel.
 Special thanks to the open-source community for their valuable contributions to the libraries and tools used in this project.
 
 ### Contact
-For any questions or inquiries, please contact:
-👉 Twitter: https://twitter.com/NdiranguMuturi1?t=xXF2OKsqOUeb5J_4yysFKg&s=09
-👉 LinkedIn: https://www.linkedin.com/in/isaac-muturi-3b6b2b237
-👉 GitHub: https://github.com/Isaac-Ndirangu-Muturi-749
+For any questions or inquiries, please contact:  
+👉 Twitter: https://twitter.com/NdiranguMuturi1?t=xXF2OKsqOUeb5J_4yysFKg&s=09  
+👉 LinkedIn: https://www.linkedin.com/in/isaac-muturi-3b6b2b237  
+👉 GitHub: https://github.com/Isaac-Ndirangu-Muturi-749  
 
 Feel free to contribute to this project by submitting pull requests or opening issues. Your feedback is highly appreciated.
 
